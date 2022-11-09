@@ -56,7 +56,7 @@ The methods in tripClass do the following:
 6) Displays the order in which players will roll.
 7) Swaps the current player up variable for the next player up.
 8) The current Player-up rolls the dice and selects which to keep.
-9) A simple method to Displays tbe result of the roll.
+9) A simple method to Displays the result of the roll.
 10) A method to select which dice to keep.
 11) Updates the players score by resetting score to zero and scoring all the dice with the
     method in the player class.
