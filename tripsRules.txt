@@ -1,0 +1,37 @@
+*****Rules of the game*****
+Trips is a dice game for 2-15 players. The object of the game is to have the
+lowest score after taking a turn up to roll. Traditionally the game is played
+for $$$, with each player adding a designated sum of money to the pot before
+being allowed to roll for who chooses first to roll, and the winner takes all.
+Gambling and superstitition can go hand in hand, and the choice of who gets to
+choose who rolls first is no different. Unless a player 'Shoots the moon', when
+you roll has no effect on the outcome of the game.
+
+~How to play~
+
+First:
+All the players in the pot will enter their names in clockwise order.
+The first person to enter does not matter as the list will be reordered by the
+player who wins the initial rolloff.
+
+Second:
+One dice will be rolled for each player, and the lowest gets to select who will
+roll first. The game will resolve ties until there is a clear winner.
+
+Third:
+Each player will take a turn rolling the dice in order.
+Players will roll 5 dice to start. Any roll of 3 is worth 0 points, all other dice
+are worth their face value. A player must select at least one dice from their roll
+to keep, with no limit on how many dice they keep from a roll. Following this formula
+the player will reroll the remaining dice until they have selected 5 dice, and the
+next player will take their turn.
+
+Shooting the moon:
+If at any point a player has rolled 5 or selected to keep 5 dice with a value of 6
+(30 points total) counts as 'shooting the moon', and the player wins immediately,
+regardless if there are players remaining in the pool to roll.
+
+Resolving a tie:
+If two or more players tie for the lowest score, they will reroll 5 dice in the
+typical fashion until only one player wins. Often this coincides with the players
+adding more funds to the pot, but this is not a requirement.
