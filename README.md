@@ -1,6 +1,7 @@
-# TRIPS: A Dice-Game for Crips
-#### video-url: <https://youtube.com/>
+# TRIPS
 #### Description:
+Trips is an object-oriented command line game built in Python. The game logic uses a simple recursive algorithm to resolve ties. It was something I wrote as an exercise in encapsulation, and data organization. 
+
 Trips is a dice gambling game that is very popular in Toronto, ON, Canada.
 
 To begin a game every player places the agreed upon cash amount in the "pot". This earns
@@ -63,7 +64,7 @@ The methods in tripClass do the following:
 12) Displays the current player-up score.
 13) Prompts the player-up to keep another dice from current rolls, keep all remaining
     rolled dice or reroll.
-14) Checks to see if the player shot tbe moon, and if so exits the game, declaring them
+14) Checks to see if the player shot the moon, and if so exits the game, declaring them
     the winner.
 15) Checks to see if the current player up won.
     or appends them to winners list if they tied for first.
